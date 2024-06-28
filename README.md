@@ -1,5 +1,7 @@
 # Reminder-with-Notification
 
+You can create virtual environment using uv package.
+
 You need an Excel sheet with three columns, each containing specific data:
 
 1.  The first column should contain routine tasks.
